@@ -1,5 +1,6 @@
 
 # Real-Time Face Detection with OpenCV
+https://github.com/user-attachments/assets/e1d7b2cf-0f1c-43be-8595-7c04cb6c8207
 
 This project demonstrates real-time face detection using OpenCV—a popular computer vision library. By leveraging Haar cascades, we can identify faces in webcam streams or video files.
 
